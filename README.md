@@ -34,6 +34,6 @@ QTY       Part Name                           Comments
 1         2" solid Copper AWG12 wire          for wire link
 1         0.095" semi-tubular Brass rivet     for Brass strip link
 1         0.8" x 0.25" Brass strip            needs holes for 6-32 screw and 0.095" rivet
-1         Brass thumb screw 6-32              for Brass trip link
+1         Brass thumb screw 6-32              for Brass strip link
 ```
           
